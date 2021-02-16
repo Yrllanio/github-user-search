@@ -1,0 +1,53 @@
+.home-container {        
+    padding-top: 120px;
+    padding-left: 120px;
+}
+
+.text-title {
+    position: absolute;
+    width: 580px;
+    height: 128px;
+    left: 120px;
+    top: 179px;  
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+}
+
+.text-subtitle {
+    margin-top: 24px;
+    position: absolute;
+    width: 612px;
+    height: 216px;
+    left: 120px;
+    top: 331px;    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;   
+    color: #5A6774;
+}
+
+.button-position-home {
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 120px;
+    top: 620px;
+    display: flex;
+    padding-bottom: 80px;
+}
+
+a {
+    color: #1890FF;
+    text-decoration: none;
+    &.visited{
+        text-decoration: #1890FF;
+    }
+}
+
+

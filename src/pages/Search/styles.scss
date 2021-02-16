@@ -1,0 +1,39 @@
+.form-search {    
+    position: absolute;
+    width: 85%;
+    height: 270px;
+    left: 0px;
+    top: 0px;
+    background: #E6F7FF;
+    border-radius: 16px;
+    margin-left: 90px;
+    margin-top: 116px;
+    font-weight: 500;
+    
+}
+
+.title-position {
+    position: absolute;    
+    height: 46px;
+    left: 94px;
+    top: 66px;
+}
+
+.input-position {
+    position: absolute;
+    width: 65%;
+    height: 35px;
+    left: 94px;
+    top: 124px;
+    background: #FFFFFF;   
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;    
+}
+
+.button-position-search {
+    position: absolute;    
+    left: 94px;
+    top: 188px;
+    display: flex;
+}
